@@ -1,0 +1,22 @@
+{
+  "name": "anue",
+  "version": "1.0.0",
+  "description": "This project brews tea.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"This package brews tea.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dellanuel/anue.git"
+  },
+  "keywords": [
+    "anue"
+  ],
+  "author": "Chinemelu Emmanuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dellanuel/anue/issues"
+  },
+  "homepage": "https://github.com/Dellanuel/anue#readme"
+}
