@@ -1,5 +1,5 @@
 {
-  "name": "anue",
+  "name": "@dellanuel/anue",
   "version": "1.0.0",
   "description": "This project brews tea.",
   "main": "index.js",
@@ -9,6 +9,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Dellanuel/anue.git"
+  },
+  "publishConfig": {
+    "@dellanuel:registry": "https://npm.pkg.github.com"
   },
   "keywords": [
     "anue"
